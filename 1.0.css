@@ -1,0 +1,27 @@
+table,
+tr,
+th,
+td{
+    border: 2px solid red;
+     border-collapse: collapse;
+     padding: 01em;
+     border spacing: 10.0cm;
+}
+th
+
+{
+    background-color:grey;
+
+
+}
+
+th
+
+{
+    background-color:aquamarine
+
+}
+table
+{
+    background-color:burlywood
+}
